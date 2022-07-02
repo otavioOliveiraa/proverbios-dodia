@@ -9,7 +9,7 @@
 
 /* ==== BODY ==================================== */
 body {
-  font-family: sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 1.6rem;
 
   color: white;
@@ -76,7 +76,8 @@ button:hover {
   border-radius: 1.2rem;
   background-color: rgb(44, 110, 204); */
   
-  font-weight: bold;
+  font-weight: normal;
+  font-style: oblique;
   transition: opacity 1s;
 }
 
