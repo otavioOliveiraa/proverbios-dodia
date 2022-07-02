@@ -71,13 +71,17 @@ button:hover {
 /*==== RESPOSTA ===========================*/
 #resposta {
   margin-top: 3rem;
+  padding: 1rem ;
+  border-radius: 1.2rem;
+
+  background-color: rgb(44, 110, 204);
   
+  font-weight: bold;
   transition: opacity 1s;
 }
 
 #resposta div {
   font-size: 1.6rem;
-  font-weight: bold;
   opacity: 0.9;
   margin-bottom: 1rem;
 } /**/
